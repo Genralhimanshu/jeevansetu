@@ -1,0 +1,1 @@
+export default function AskDoctor() { return <h1>Ask Doctor</h1>; }

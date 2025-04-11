@@ -1,0 +1,1 @@
+export default function DownloadablesPage() { return <h1>Downloads</h1>; }

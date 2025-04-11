@@ -1,0 +1,1 @@
+export default function DietPlanGenerator() { return <h1>Diet Plan</h1>; }

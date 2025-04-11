@@ -1,0 +1,1 @@
+export default function HealthTracker() { return <h1>Health Tracker</h1>; }
